@@ -1,11 +1,10 @@
-import harshika from "../../assets/harshika.jpeg";
-import TextChange from "../../TextChange";
+import harshika from "../../assets/harshi.jpg";
 function Home() {
   return (
     <div className="text-white flex w-full justify-between items-start p-10 md:p-20">
       <div className="md:w-2/4 md:pt-10">
         <h1 className="text-xl md:text-6xl font-bold flex leading-normal tracking-tighter">
-          <TextChange />
+          <p>Hello, I'm Harshika</p>
         </h1>
         <p className="text-sm md:text-2xl tracking-tight">
           MCA student at NIT Agartala with a strong passion for frontend

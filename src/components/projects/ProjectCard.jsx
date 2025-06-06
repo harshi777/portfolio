@@ -5,7 +5,7 @@ function ProjectCard({ title, main, image, demo, code }) {
       <h3 className="px-4 text-xl md:text-2xl font-bold leading-normal text-center">
         {title}
       </h3>
-      <p className="px-4 text-sm md:text-md leading-tight py-2 text-center text-justify">
+      <p className="px-4 text-sm md:text-md leading-tight py-2 text-center">
         {main}
       </p>
       <div className="mt-2 p-2 md:p-4 flex gap-2 md:gap-4">
