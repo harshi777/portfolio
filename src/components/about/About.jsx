@@ -1,5 +1,5 @@
 import React from "react";
-import harshika from "../../assets/harshi.jpg";
+import harshika from "../../assets/harshika.jpeg";
 function About() {
   return (
     <div
@@ -13,7 +13,7 @@ function About() {
           </h2>
           <div className="flex justify-center">
             <img
-              className="md:w-1/2 md:h-100 rounded-xl mr-20"
+              className="md:w-1/2 md:h-100 rounded-full mr-20"
               src={harshika}
               alt="About image"
             />
